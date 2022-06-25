@@ -15,9 +15,8 @@
 <a href="https://linkedin.com/in/sanskruti maharana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanskruti maharana" height="30" width="40" /></a>
 <a href="https://instagram.com/__sanskrutii__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__sanskrutii__" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sanskrutimahara1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sanskrutimahara1" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/sanskrutimaharana/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/sanskrutimaharana/profile" height="30" width="40" /></a>
 <a href="https://discord.gg/3179" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="3179" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sanskruti2002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sanskruti2002" height="30" width="40" /></a>  
+
   
   
   
