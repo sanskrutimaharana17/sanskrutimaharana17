@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sanskruti Maharana</h1>
-<h3 align="center">LEARNER</h3>
 <img src="https://user-images.githubusercontent.com/105835098/194464287-52e46340-f2ca-4d9b-ba74-7144946a962b.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanskrutimaharana17&label=Profile%20views&color=0e75b6&style=flat" alt="sanskrutimaharana17" /> </p>
 
